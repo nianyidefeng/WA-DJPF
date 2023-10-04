@@ -1,5 +1,5 @@
 # WA-DJPF
 We will release the code later.
 
-CelebA dataset：http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+CelebA dataset：http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html \n
 Places2 dataset：http://places2.csail.mit.edu/download.html
